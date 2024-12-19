@@ -2,7 +2,7 @@
 
 ## Home
 
-![Screenshot of project](wp-content/uploads/2024/12/screencapture-localhost-law-solutions-llp-2024-12-20-00_59_59.png)
+![Screenshot of project](wp-content/uploads/2024/12/screencapture-localhost-law-solutions-llp-2024-12-20-01_24_14.png)
 
 ## Schedule a Consultation
 
